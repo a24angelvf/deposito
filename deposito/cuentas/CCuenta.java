@@ -6,6 +6,7 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
 
+    
     public CCuenta()
     {
     }
